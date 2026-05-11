@@ -47,7 +47,7 @@
 
 ### 四、项目结构
 
-MazeGame/
+MazeGame
 - main.cpp              # 程序入口
 - mainwindow.h          # 主窗口头文件
 - mainwindow.cpp        # 主窗口实现
