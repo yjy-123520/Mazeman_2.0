@@ -48,14 +48,14 @@
 ### 四、项目结构
 
 MazeGame/
-├── main.cpp              # 程序入口
-├── mainwindow.h          # 主窗口头文件
-├── mainwindow.cpp        # 主窗口实现
-├── gamewidget.h          # 游戏画布头文件
-├── gamewidget.cpp        # 游戏画布实现
-├── .gitignore            # Git忽略文件
-├── LICENSE               # 许可证
-└── README.md             # 项目说明
+- main.cpp              # 程序入口
+- mainwindow.h          # 主窗口头文件
+- mainwindow.cpp        # 主窗口实现
+- gamewidget.h          # 游戏画布头文件
+- gamewidget.cpp        # 游戏画布实现
+- .gitignore            # Git忽略文件
+- LICENSE               # 许可证
+- README.md             # 项目说明
 ---
 
 
